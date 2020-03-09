@@ -1,8 +1,5 @@
 package Home4;
 
-//Name:Charles Corro
-//SID: 105037613
-
 import javax.swing.*;
 import javax.swing.Timer;
 
